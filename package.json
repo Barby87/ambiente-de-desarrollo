@@ -1,0 +1,15 @@
+{
+  "name": "tdd-desarrollo",
+  "version": "0.0.1",
+  "description": "Clase de TDD y ambiente de desarrollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "development"
+  ],
+  "author": "Bárbara Cáceres Sepúlveda",
+  "license": "ISC"
+}
